@@ -1,6 +1,6 @@
 // --- CONFIG ---
 const BANNER_LINK = "https://somana.top/click?o=2&a=3126";
-const BANNER_IMAGE = "https://github.com/deadforlov/casey_bby/blob/main/assets/02.jpg?raw=true"; // твоя картинка
+const BANNER_IMAGE = "https://github.com/deadforlov/casey_bby/blob/main/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-08-20%20183043.png?raw=true"; // твоя картинка
 const HIDE_HOURS = 24;           // на сколько часов скрывать после закрытия
 const SHOW_DELAY_MS = 2000;      // задержка показа баннера, мс
 // --- /CONFIG ---
@@ -44,7 +44,7 @@ const SHOW_DELAY_MS = 2000;      // задержка показа баннера
       <div class="mylf-banner__img"><img src="${BANNER_IMAGE}" alt="Find Your MYLF"></div>
       <div class="mylf-banner__text">
         <div class="mylf-banner__title">Find Your MYLF</div>
-        <div class="mylf-banner__subtitle">Tap to explore nearby matches</div>
+        <div class="mylf-banner__subtitle">Click to view nearby locations</div>
       </div>
     </a>
   `;
